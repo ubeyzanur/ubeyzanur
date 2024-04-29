@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Beyza Nur and I'm a undergrade computer engineering student at MEF University.</p>
+<p align="left">My name is Beyza Nur and I'm an undergrade Computer Engineering student at MEF University.</p>
 
 ###
 
